@@ -1,6 +1,6 @@
 .carousel-caption{
-    top:50%;
-    transform:translateY(-70);
+    top:27%;
+    transform:translateY(-50);
     bottom:auto;
 }
 #matter1{
@@ -30,8 +30,7 @@ margin-top: 30px;
     font-size: 20px;
     font-weight: 500;
     padding:10px;
-    width:200px; 
-    transition: 3.ease;
+   transition: 3.ease;
 }
 .btn-danger:hover{
     background-color: black;
@@ -66,6 +65,9 @@ font-weight: 500;
     font-size:30px;
     font-weight: 500;
    padding:0 10%;
+}
+#carouselimg{
+height: 600px;
 }
 
    
